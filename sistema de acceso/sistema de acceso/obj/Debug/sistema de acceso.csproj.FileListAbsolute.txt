@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2012\Projects\sistema de acceso\sistema de acceso\bin\Debug\sistema de acceso.exe.config
+c:\users\hp\documents\visual studio 2012\Projects\sistema de acceso\sistema de acceso\bin\Debug\sistema de acceso.exe
+c:\users\hp\documents\visual studio 2012\Projects\sistema de acceso\sistema de acceso\bin\Debug\sistema de acceso.pdb
+c:\users\hp\documents\visual studio 2012\Projects\sistema de acceso\sistema de acceso\obj\Debug\sistema de acceso.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2012\Projects\sistema de acceso\sistema de acceso\obj\Debug\sistema de acceso.exe
+c:\users\hp\documents\visual studio 2012\Projects\sistema de acceso\sistema de acceso\obj\Debug\sistema de acceso.pdb
